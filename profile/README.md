@@ -1,6 +1,6 @@
 <h1>
   MAGMA-s 🔥
-  <img src="assets/magma_logo.png" align="right" width="120"/>
+  <img src="../assets/magma_logo.png" align="right" width="120"/>
 </h1>
 
 **Multi-Agent for Manipulation – by Siléane**
@@ -12,9 +12,9 @@ MAGMA-s is a modular research framework for building, training, and deploying **
 The project focuses on structured tool use, embodied reasoning, simulation-driven training, and real-world robotic deployment with a strong emphasis on **long-horizon interactive tasks** and efficiency on limited hardware (e.g., laptops or edge devices)
 
 <p align="center">
-  <img src="assets/sileane_logo.png" height="60"/>
+  <img src="../assets/sileane_logo.png" height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/laas_logo.png" height="60"/>
+  <img src="../assets/laas_logo.png" height="60"/>
 </p>
 
 ---
