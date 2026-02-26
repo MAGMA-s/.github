@@ -1,13 +1,13 @@
 <h1>
-  MAGMA-s 🔥
+  MAGMA-rob 🔥
   <img src="../assets/magma_logo.png" align="right" width="120"/>
 </h1>
 
 **Multi-Agent for Manipulation – by Siléane**
 
-MAGMA-s is a CIFRE PhD research project conducted jointly by **Siléane** and **LAAS-CNRS**.
+MAGMA-rob is a CIFRE PhD research project conducted jointly by **Siléane** and **LAAS-CNRS**.
 
-MAGMA-s is a modular research framework for building, training, and deploying **small-scale multimodal agents (<2B parameters)** capable of reasoning, planning, and acting in robotic environments.
+MAGMA-rob is a modular research framework for building, training, and deploying **small-scale multimodal agents (<2B parameters)** capable of reasoning, planning, and acting in robotic environments.
 
 The project focuses on structured tool use, embodied reasoning, simulation-driven training, and real-world robotic deployment with a strong emphasis on **long-horizon interactive tasks** and efficiency on limited hardware (e.g., laptops or edge devices)
 
@@ -21,7 +21,7 @@ The project focuses on structured tool use, embodied reasoning, simulation-drive
 
 ## 🎯 Vision
 
-MAGMA-s aims to:
+MAGMA-rob aims to:
 
 - Enable **language-conditioned robotic reasoning and control**
 - Structure agent behavior through **explicit tool abstraction and callable actions**
@@ -32,7 +32,7 @@ MAGMA-s aims to:
 
 We explicitly study **compounding error and misalignment** as primary causes of long-horizon failure in robotic agents.
 
-MAGMA-s is designed for research in embodied AI, adaptive robotics, and tool-augmented small foundation models.
+MAGMA-rob is designed for research in embodied AI, adaptive robotics, and tool-augmented small foundation models.
 
 ---
 
@@ -49,7 +49,7 @@ MAGMA-s is designed for research in embodied AI, adaptive robotics, and tool-aug
 
 ## 🏗 Architecture Overview
 
-MAGMA-s follows a layered modular structure:
+MAGMA-rob follows a layered modular structure:
 
 ### **MAGMA-GEN**
 A simulation-based data generation pipeline that produces interaction-grounded training data **without human demonstrations**.
@@ -91,7 +91,7 @@ They support the main research contributions but are not standalone scientific r
 
 ## 📦 Repository Status
 
-The publication of MAGMA-s is currently in progress.  
+The publication of MAGMA is currently in progress.  
 Packages will be released progressively according to the following roadmap:
 
 | Package | Planned Release |
@@ -109,7 +109,7 @@ During this transition phase, APIs and documentation may evolve.
 
 ## 🎓 Research Context
 
-MAGMA-s is developed as part of a CIFRE PhD thesis focusing on:
+MAGMA is developed as part of a CIFRE PhD thesis focusing on:
 
 - Long-horizon robotic manipulation
 - Tool-aware small language models
@@ -121,7 +121,7 @@ MAGMA-s is developed as part of a CIFRE PhD thesis focusing on:
 
 ## 🎯 Intended Use
 
-MAGMA-s is designed for:
+MAGMA is designed for:
 
 - Academic research laboratories
 - Industrial robotics R&D teams
@@ -138,7 +138,7 @@ BSD 2-Clause License.
 
 ## 📖 Citation
 
-If you use MAGMA-s in academic work, please cite:
+If you use MAGMA in academic work, please cite:
 
 - **MAGMA-GEN**: <Under review, RSS 2026>
 - **MAGMA-ROS2-\***: <Under review, RSS 2026>
